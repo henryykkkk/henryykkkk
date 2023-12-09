@@ -56,6 +56,7 @@ normalmente apenas me chamam de **Henry**.
 
 ### 🛠️ Projetos
 
-[![GoldGPT](https://img.shields.io/badge/henrydeev-%23E4405F.svg?style=for-the-badge&logo=%E2%9A%9C%EF%B8%8F&logoColor=white)](https://www.instagram.com/seu_usuario_aqui/)
+[![GoldGPT](https://img.shields.io/badge/GoldGPT-ffd700?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/GoldGPT)
+[![AmorDocePlus](https://img.shields.io/badge/AmorDoce%20Plus-ff0000?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/AmorDocePlus)
 
 Tenho que admitir, não pensei que com poucos projetos que eu mesmo criei, consegui ficar famoso até na minha escola! (⁠☉⁠｡⁠☉⁠)
