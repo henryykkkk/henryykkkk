@@ -1,7 +1,7 @@
-# Opa! Eu sou [![henrydeev](https://img.shields.io/badge/henrydeev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydeev_?igshid=NGVhN2U2NjQ0Yg==/)
+# Opa! Eu sou henrydeev
 
 
-Desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **henrydeev** e **henrydxd**. Pessoas
+Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **henrydeev** e **henrydxd**. Pessoas
 normalmente apenas me chamam de **Henry**.
 
 
@@ -15,6 +15,9 @@ normalmente apenas me chamam de **Henry**.
   </picture> Adorei o novo design da Microsoft (WinUI 3 / Fluent Design)
 - 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
 - 📘 Sei bastante de matemática :D
+- Caso queira conversar comigo, aqui está meu Instagram!
+[![@henrydeev](https://img.shields.io/badge/henrydeev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydeev_?igshid=NGVhN2U2NjQ0Yg==/)
+
 
 ### 💻 Linguagens que consigo utilizar
 
@@ -51,10 +54,8 @@ normalmente apenas me chamam de **Henry**.
 - 🅰 Não consigo falar inglês muito bem
 - 📘 Nerd :)
 
-### 📊 Stats
+### 🛠️ Projetos
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrydeev&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/henrydeev#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrydeev&show_icons=true#gh-light-mode-only)](https://github.com/henrydeev#gh-light-mode-only)
+[![GoldGPT](https://img.shields.io/badge/GoldGPT-%E2%9A%9C%EF%B8%8F-%23FFD700.svg?style=for-the-badge)](https://www.github.com/henrydeev/GoldGPT)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydeev&layout=compact&theme=tokyonight#gh-dark-mode-only)](/#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydeev&layout=compact#gh-light-mode-only)](/#gh-light-mode-only)
+Tenho que admitir, não pensei que com poucos projetos que eu mesmo criei, consegui ficar famoso até na minha escola! (⁠☉⁠｡⁠☉⁠)⁠!
