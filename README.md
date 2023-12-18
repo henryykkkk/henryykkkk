@@ -58,5 +58,6 @@ normalmente apenas me chamam de **Henry**.
 
 [![GoldGPT](https://img.shields.io/badge/GoldGPT-ffd700?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/GoldGPT)
 [![AmorDocePlus](https://img.shields.io/badge/AmorDoce%20Plus-ff0000?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/AmorDocePlus)
+[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/dinoBot)
 
 Tenho que admitir, não pensei que com poucos projetos que eu mesmo criei, consegui ficar famoso até na minha escola! (⁠☉⁠｡⁠☉⁠)
