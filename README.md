@@ -1,4 +1,4 @@
-# Opa! Eu sou henrydeev
+# Opa! Eu sou henrydxd
 
 
 Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **henrydeev** e **henrydxd**. Pessoas
@@ -9,14 +9,10 @@ normalmente apenas me chamam de **Henry**.
 
 - 🌐 Atualmente moro no Brasil
 - 💻 Sou um estudante que gosta de programar
-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="microsoft-dark.svg">
-    <img alt="Microsoft Icon" src="microsoft-light.svg" width="15">
-  </picture> Adorei o novo design da Microsoft (WinUI 3 / Fluent Design)
 - 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
-[![@henrydeev](https://img.shields.io/badge/henrydeev-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydeev_?igshid=NGVhN2U2NjQ0Yg==/)
+[![@henrydxd](https://img.shields.io/badge/henrydxd-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydxd_?igshid=NGVhN2U2NjQ0Yg==/)
 
 
 ### 💻 Linguagens que consigo utilizar
@@ -29,7 +25,6 @@ normalmente apenas me chamam de **Henry**.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -40,7 +35,8 @@ normalmente apenas me chamam de **Henry**.
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
