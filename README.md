@@ -1,8 +1,7 @@
-# Opa! Eu sou henrydxd
+# Opa! Eu sou Henry (ou byhenryzzx)
 
 
-Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **henrydeev** e **henrydxd**. Pessoas
-normalmente apenas me chamam de **Henry**.
+Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **byhenryzzx** e **henryzzx**. Normalmente apenas me chamam de **Henry**.
 
 
 ### 💫 Sobre mim
@@ -12,7 +11,7 @@ normalmente apenas me chamam de **Henry**.
 - 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
-[![@henrydxd](https://img.shields.io/badge/henrydxd-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henrydxd_?igshid=NGVhN2U2NjQ0Yg==/)
+[![@byhenryzzx](https://img.shields.io/badge/henrydxd-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byhenryzzx/)
 
 
 ### 💻 Linguagens que consigo utilizar
