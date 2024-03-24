@@ -1,4 +1,4 @@
-# Opa! Eu sou Henry (ou byhenryzzx)
+# Opa! Eu sou Henry   (ou byhenryzzx)
 
 
 Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **byhenryzzx** e **henryzzx**. Normalmente apenas me chamam de **Henry**.
