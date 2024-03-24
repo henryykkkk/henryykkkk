@@ -11,6 +11,7 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 - 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
+
 [![byhenryzzx](https://img.shields.io/badge/byhenryzzx-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byhenryzzx/)
 
 
