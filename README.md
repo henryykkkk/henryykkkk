@@ -50,5 +50,5 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 
 ### 🛠️ Projetos
 
-[![PoopGPT V2](https://img.shields.io/badge/GoldGPT-ffd700?style=for-the-badge&logo=poop&logoColor=white)](https://www.github.com/byhenryzzx/PoopGPTv2)
+[![PoopGPT V2](https://img.shields.io/badge/PoopGPT%20V2-ffd700?style=for-the-badge&logo=poop&logoColor=white)](https://www.github.com/byhenryzzx/GoldGPT2)
 [![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/byhenryzzx/dinoBot)
