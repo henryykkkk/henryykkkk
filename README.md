@@ -11,7 +11,7 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 - 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
-[![henrydxd](https://img.shields.io/badge/henrydxd-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byhenryzzx/)
+[![byhenryzzx](https://img.shields.io/badge/byhenryzzx-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byhenryzzx/)
 
 
 ### 💻 Linguagens que consigo utilizar
@@ -24,7 +24,6 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -44,15 +43,11 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 
 ### 🏆 Habilidades
 
-- 🗄️ Gerenciamento de Servidores
-- 🎨 Aprendendo a desenhar / Cores
-- 🅰 Não consigo falar inglês muito bem
+- 🎨 Aprendendo a desenhar
+- 🅰 Sou bom no entendimento de inglês, mas na fala, já estou aprendendo muito!
 - 📘 Nerd :)
 
 ### 🛠️ Projetos
 
-[![GoldGPT](https://img.shields.io/badge/GoldGPT-ffd700?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/GoldGPT)
-[![AmorDocePlus](https://img.shields.io/badge/AmorDoce%20Plus-ff0000?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/AmorDocePlus)
-[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henrydeev/dinoBot)
-
-Tenho que admitir, não pensei que com poucos projetos que eu mesmo criei, consegui ficar famoso até na minha escola! (⁠☉⁠｡⁠☉⁠)
+[![PoopGPT V2](https://img.shields.io/badge/GoldGPT-ffd700?style=for-the-badge&logo=poop&logoColor=white)](https://www.github.com/byhenryzzx/PoopGPTv2)
+[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/byhenryzzx/dinoBot)
