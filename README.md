@@ -1,7 +1,7 @@
-# Opa! Eu sou Henryㅤㅤ(ou byhenryzzx)
+# Opa! Aqui é o henryykkkk!
 
 
-Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor de aplicativos, desenvolvedor de plugins e mods para Minecraft, desenvolvedor de jogos e Desenvolvedor de servidores. Sou conhecido online como **byhenryzzx** e **henryzzx**. Normalmente apenas me chamam de **Henry**.
+Sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos, plugins e mods para Minecraft, jogos e servidores. Sou conhecido atualmente online como **henryykkkk**. Normalmente apenas me chamam de **Henry**.
 
 
 ### 💫 Sobre mim
@@ -12,7 +12,7 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
 
-[![byhenryzzx](https://img.shields.io/badge/byhenryzzx-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byhenryzzx/)
+[![henryykkkk](https://img.shields.io/badge/byhenryzzx-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henryykkkk/)
 
 
 ### 💻 Linguagens que consigo utilizar
@@ -50,5 +50,5 @@ Sou um desenvolvedor full stack, desenvolvedor de bots no Discord, desenvolvedor
 
 ### 🛠️ Projetos
 
-[![PoopGPT V2](https://img.shields.io/badge/PoopGPT%20V2-ffd700?style=for-the-badge&logo=💩&logoColor=white)](https://www.github.com/byhenryzzx/GoldGPT2)
-[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/byhenryzzx/dinoBot)
+[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
+[![RBXSDK](https://img.shields.io/badge/RBXSDK-a600ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/RBXSDK)
