@@ -12,7 +12,7 @@ Sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos,
 - 📘 Sei bastante de matemática :D
 - Caso queira conversar comigo, aqui está meu Instagram!
 
-[![henryykkkk](https://img.shields.io/badge/byhenryzzx-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henryykkkk/)
+[![henryykkkk](https://img.shields.io/badge/henryykkkk-%23DD2A7B.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henryykkkk/)
 
 
 ### 💻 Linguagens que consigo utilizar
@@ -34,7 +34,7 @@ Sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos,
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Discord](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -51,4 +51,5 @@ Sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos,
 ### 🛠️ Projetos
 
 [![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
-[![RBXSDK](https://img.shields.io/badge/RBXSDK-a600ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/RBXSDK)
+
+Só isso, por enquanto...
