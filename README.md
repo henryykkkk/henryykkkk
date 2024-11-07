@@ -1,7 +1,7 @@
-# Opa! Aqui é o henryykkkk!
+# Opa!
 
 
-Sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos, plugins e mods para Minecraft, jogos e servidores. Sou conhecido atualmente online como **henryykkkk**. Normalmente apenas me chamam de **Henry**.
+Muito prazer em te ver por aqui! Eu sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos, plugins e mods para Minecraft e alguns jogos. Sou conhecido atualmente online como **henryykkkk**. Normalmente apenas me chamam de **Henry**.
 
 
 ### 💫 Sobre mim
