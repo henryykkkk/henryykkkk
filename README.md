@@ -51,5 +51,6 @@ Muito prazer em te ver por aqui! Eu sou um desenvolvedor full stack, tento desen
 ### 🛠️ Projetos
 
 [![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
+[![MemoryMania](https://img.shields.io/badge/MemoryMania-a600ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
 
 Só isso, por enquanto...
