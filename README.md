@@ -1,56 +1,70 @@
-# Opa!
+<h1 align="center">✨ Hi there, I'm Henry!</h1>
+
+<body>
+<br>
+<div align="center">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+<br>
+
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
 
-Muito prazer em te ver por aqui! Eu sou um desenvolvedor full stack, tento desenvolver bots no Discord, aplicativos, plugins e mods para Minecraft e alguns jogos. Sou conhecido atualmente online como **henryykkkk**. Normalmente apenas me chamam de **Henry**.
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
+
+```csharp
+My Profile
+-------------------------------
+Name: Henry
+WhoamI: Elementary School Student 🏫
+Gender: Male
+Location: Brazil
+Loves: Videogames, technology stuff, books
+Hobbies: Gaming, Coding while I am listening music 🎶
+Languages: TypeScript, JavaScript, Rust, Java, C#, C++, HTML5, CSS3  
+         TailwindCSS, DaisyUI, Express.js, React, Next.js, Electron.js  
+         Tauri, Unity, MySQL, Discord, Shell Script, Bash  
+         PowerShell, Windows Terminal, Git, Arduino, Python, NodeJS, Kotlin
+Learning: Computer Science
+Instagram: @henryykkkk
+```
+<br>
+     
+<div>
+<h2 align="center"> 🔎 Knowledge 📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">I worked using CSharp to code my Desktop App. A year ago, I learned Kotlin and Java, I confess that Kotlin was a nightmare to learn, also some reverse engineering to develope a working version of YouTube Revanced. Nowdays, I am focused on learning computer science.
+So, I do my best in every specialtation area. My programming languages are TypeScript, JavaScript, Rust, Java, C#, C++, HTML5, CSS3, TailwindCSS, DaisyUI, Express.js, React, Next.js, Electron.js, Tauri, Unity, MySQL, Discord.js, Kotlin, Shell Script, Bash, PowerShell, Windows Terminal, Git, Arduino, Python, NodeJS and Kotlin. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
+<p align = "center">
+     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=androidstudio,bash,windows,linux,git,github,java,kotlin,py,cs,cpp,js,css,html,githubactions,tailwind,react,discord,express,flutter,mysql,arduino,unity&perline=7"alt="My Skills"/>
+    </a>
+</p>
+</div>
+<br>
+
+<h2 align="center"> My contributions game 🐍🎮</h2>
+
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
 
 
-### 💫 Sobre mim
+</div>  
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  </div>
+<br> 
+</div>  
 
-- 🌐 Atualmente moro no Brasil
-- 💻 Sou um estudante que gosta de programar
-- 🎨 Eu amo programar coisas, ainda não sou bom no quesito de design :)
-- 📘 Sei bastante de matemática :D
-- Caso queira conversar comigo, aqui está meu Instagram!
 
-[![henryykkkk](https://img.shields.io/badge/henryykkkk-%23DD2A7B.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henryykkkk/)
-
-
-### 💻 Linguagens que consigo utilizar
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Discord](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### 🏆 Habilidades
-
-- 🎨 Aprendendo a desenhar
-- 🅰 Sou bom no entendimento de inglês, mas na fala, já estou aprendendo muito!
-- 📘 Nerd :)
-
-### 🛠️ Projetos
-
-[![dinoBot](https://img.shields.io/badge/dinoBot-0096ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
-[![MemoryMania](https://img.shields.io/badge/MemoryMania-a600ff?style=for-the-badge&logo=&logoColor=white)](https://www.github.com/henryykkkk/dinoBot)
-
-Só isso, por enquanto...
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@henryykkkk?theme=gelbooru" />
+  </div>
+<br>
