@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th align="left" width="180px">Category</th>
-    <th align="left" width="575px">Info</th>
+    <th align="left" width="400px">Info</th>
   </tr>
   <tr>
     <td><strong>𝗡𝗮𝗺𝗲</strong></td>
